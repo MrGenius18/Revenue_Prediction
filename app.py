@@ -24,7 +24,7 @@ def predict():
         prediction = model.predict(final_features)
         output = round(prediction[0], 2)
 
-        return render_template('index.html', prediction_text=f'Order Placed: {final_features[0][0]} Predicted Revenue: {output}')
+        return render_template('index.html', input_var=f'Order Placed: {final_features[0][0]} ', prediction_text=f'Predicted Revenue: {output}')
 
     except Exception as e:
         return render_template('index.html', prediction_text=f"Error: {str(e)}")
