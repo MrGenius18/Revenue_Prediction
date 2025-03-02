@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load the trained model
-model_path = 'Revenue_Prediction.pkl'
+model_path = 'pkl files/Revenue_Prediction.pkl'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
