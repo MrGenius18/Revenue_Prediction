@@ -79,7 +79,11 @@ The repository includes the full pipeline for data preprocessing, model training
 
 ## Train-Test Prediction Model Visualizations
 
-![revenue_train_test_result.png](https://github.com/MrGenius18/Revenue_Prediction/blob/7decfd13f10cdfc6170795cce8a52df2141c5e31/revenue_train_test_result.png)
+![revenue_train_test_result.png](https://github.com/MrGenius18/Revenue_Prediction/blob/bc1d7898b2995e650618b8c4499eaaf6fa902714/extra%20materials/revenue_train_test_result.png)
+
+<h2 align="left">✨ Demo</h2>
+
+![Demo Screenshot](https://github.com/MrGenius18/Revenue_Prediction/blob/bc1d7898b2995e650618b8c4499eaaf6fa902714/extra%20materials/Demo.png)
 
 ---
 
